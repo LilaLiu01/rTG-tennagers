@@ -1,4 +1,4 @@
-# Adolescent-Adult Comparative Trust Game Experiment Paradigm
+# Comparing Adolescent-Adult performance in social learning using repeated Trust Game Paradigm
 
 ## Experimental Design
 
